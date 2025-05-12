@@ -1,6 +1,5 @@
-
 class user(
-
+      boolean status = true;
 )
 	
 
